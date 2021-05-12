@@ -25,7 +25,7 @@ sudo pacman -S curl jq
 cd /tmp
 git clone https://github.com/the-unknown/Antares-Conky-Theme-DE.git
 cd ./Antares-Conky-Theme-DE
-cp conky ~/.conky
+cp conky ~/.conky -r
 ```
 
 ## Launch Conky
