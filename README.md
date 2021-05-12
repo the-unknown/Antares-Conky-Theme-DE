@@ -1,4 +1,4 @@
-# Antares (Conky Theme) German
+# Antares (Conky Theme) translated into German
 This is a German translation of the Conky Theme "Antares"
 
 ![Theme Preview](https://github.com/the-unknown/Antares-Conky-Theme-DE/blob/main/Antares_de.png?raw=true)
@@ -8,6 +8,7 @@ https://www.deviantart.com/khiky-merveilles/art/Antares-Conky-Theme-857864844
 
 ## Installation
 Install Conky and JQ first.
+
 **Ubuntu**
 ```
 sudo apt install conky-all jq
