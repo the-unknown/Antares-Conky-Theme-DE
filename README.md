@@ -36,3 +36,8 @@ Best is to create a launcher and autostart on login.
 chmod +x ~/.conky/Antares/start_conky.sh
 ~/.conky/Antares/start_conky.sh
 ```
+## HiDPI Displays (Retina Displays)
+There are two files: `Antares-hidpi` and `rings-v1.2.1_hidpi.lua`
+If you have a hidpi monitor, use these files instead of their non-hidpi counterparts.
+
+Happy Hacking!
