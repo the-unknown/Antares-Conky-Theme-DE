@@ -32,7 +32,7 @@ function Split(s, delimiter)
 end
 
 function numberToWord(number)
-    if(number == 0) then return "" end
+    if(number == 0) then return "Null " end
     vword = ""
     for i, v in digits(number) do
       vword = getname(i, v) .. vword
